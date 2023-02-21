@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbaar{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100%;
+    padding: 15px;
+    position: sticky;
+   
+}
+
+button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+
+h3,{
+    font-size: 30px;
+    padding-bottom: 10px;
+    
+}
+
+.orderlist,.unorderlist{
+    padding: 20px;
+}
+.heading1,
+.heading2{
+    padding: 20px;
+
+}
+#wi{
+    font-size: 20px;
+}
+p{
+    padding-bottom: 30px;
+}
+img{
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
